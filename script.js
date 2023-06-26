@@ -1,5 +1,5 @@
 
-let body = document.querySelector('.container');
+let body = document.querySelector('body');
 
 redClick = () => {
     body.style.backgroundColor = "red";
